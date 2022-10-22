@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "IFBA_News",
+    "slug": "ifba_news",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/ifba_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/ifba_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#428a41"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
